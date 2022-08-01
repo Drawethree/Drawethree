@@ -5,6 +5,8 @@
 
 - 👨‍💻 Currently Full-Time employed: [GlobalLogic Slovakia](https://www.globallogic.com)
 
+- 🎓 Bachelor in field of Informatcs (University of Žilina, 2018 - 2022)
+
 - ⚡ Check my portfolio! [www.drawethree.dev](www.drawethree.dev)
 
 - 📫 Email Contact: **me@drawethree.dev**
