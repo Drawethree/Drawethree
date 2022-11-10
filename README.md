@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Drawethree</h1>
+<h1 align="center">Hi 👋, I'm Ján (Drawethree)</h1>
 <h3 align="center">Java Software Engineer from Slovakia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=drawethree&label=Profile%20views&color=0e75b6&style=flat" alt="drawethree" /> </p>
