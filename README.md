@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=drawethree&label=Profile%20views&color=0e75b6&style=flat" alt="drawethree" /> </p>
 
-- 👨‍💻 Currently Full-Time employed: [GlobalLogic Slovakia](https://www.globallogic.com)
+- 👨‍💻 Currently working as Contractor for : [Enghouse Systems](https://www.enghouse.com/)
 
 - 🎓 Bachelor in field of Informatics (University of Žilina, 2018 - 2022)
 
